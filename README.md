@@ -1,0 +1,1 @@
+# module-webasyst-shop-script
