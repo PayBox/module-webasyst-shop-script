@@ -1,7 +1,7 @@
 <?php
 return array(
     'name'        => 'PayBox',
-    'description' => 'Платежная система <a target="_blank" href="http://www.paybox.kz">PayBox</a>',
+    'description' => 'Платежная система <a target="_blank" href="https://paybox.money">PayBox</a>',
     'icon'        => 'img/paybox_mini.png',
     'logo'        => 'img/paybox.png',
 	'vendor'      => '983191',

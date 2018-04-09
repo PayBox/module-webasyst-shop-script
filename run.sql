@@ -1,1 +1,1 @@
-INSERT INTO `shop_plugin` (`type`, `plugin`, `name`, `description`, `logo`, `status`, `sort`) VALUES ('payment', 'paybox', 'PayBox', 'Платежная система <a target="_blank" href="http://www.paybox.kz">PayBox</a>', '/cms/shopscript/wa-plugins/payment/paybox/img/paybox.png', 1, 1);
+INSERT INTO `shop_plugin` (`type`, `plugin`, `name`, `description`, `logo`, `status`, `sort`) VALUES ('payment', 'paybox', 'PayBox', 'Платежная система <a target="_blank" href="https://paybox.money">PayBox</a>', '/cms/shopscript/wa-plugins/payment/paybox/img/paybox.png', 1, 1);

@@ -4,14 +4,14 @@ return array(
     'merchant'   => array(
         'value'        => '',
         'title'        => 'Номер магазина (merchant_id)',
-        'description'  => 'Можно посмотреть <a target="_blank" href="https://www.paybox.kz/admin/merchants.php">в личном кабинете PayBox</a>',
+        'description'  => 'Можно посмотреть <a target="_blank" href="https://my.paybox.money">в личном кабинете PayBox</a>',
         'control_type' => waHtmlControl::INPUT,
     ),
 
     'secret_key'   => array(
         'value'        => '',
         'title'        => 'Секретный ключ магазина',
-        'description'  => 'Можно посмотреть <a target="_blank" href="https://www.paybox.kz/admin/merchants.php">в личном кабинете PayBox</a>',
+        'description'  => 'Можно посмотреть <a target="_blank" href="https://my.paybox.money">в личном кабинете PayBox</a>',
         'control_type' => waHtmlControl::INPUT,
     ),
 	'lifetime'         => array(
